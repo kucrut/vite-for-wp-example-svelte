@@ -9,9 +9,9 @@
 		"preview": "vite preview"
 	},
 	"devDependencies": {
-		"@kucrut/vite-for-wp": "^0.7.0",
-		"@sveltejs/vite-plugin-svelte": "^2.4.2",
-		"svelte": "^4.0.5",
-		"vite": "^4.4.11"
+		"@kucrut/vite-for-wp": "^0.8.0",
+		"@sveltejs/vite-plugin-svelte": "^2.5.2",
+		"svelte": "^4.2.3",
+		"vite": "^4.5.0"
 	}
 }
