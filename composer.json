@@ -1,6 +1,6 @@
 {
-	"name": "kucrut/vite-for-wp-example-vanilla-js",
-	"description": "A plugin to demonstrate Vite for WP integration (Vanilla JS).",
+	"name": "kucrut/vite-for-wp-example-svelte",
+	"description": "A plugin to demonstrate Vite for WP integration (Svelte).",
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-only",
 	"authors": [
